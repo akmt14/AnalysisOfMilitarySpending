@@ -1,6 +1,6 @@
 # Countrywise Military Spending Analysis
 
-For my midterm in the Introduction to Data Visualization Class, I had to analyze the Military Spending of countries across the world. 
+For my midterm in the Introduction to Data Mining Class, I had to analyze the Military Spending of countries across the world. 
 
 The objectives of this project were as follows - 
 
